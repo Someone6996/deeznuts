@@ -1,2 +1,0 @@
-# deeznuts
-everything about deeznuts
